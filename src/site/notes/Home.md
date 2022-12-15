@@ -11,7 +11,7 @@ Welcome to my digital garden!
 
 1. 我的博客文章，例如[[Article/从自身需求出发，选择自己合适的笔记软件\|从自身需求出发，选择自己合适的笔记软件]]
 2. 我的阅读笔记，例如[[weread/人力资源管理实操十一讲\|人力资源管理实操十一讲]]
-3. 我的网课笔记，例如[[Notes for lesson/中国大学慕课/组织行为学/组织与行为学-索引\|组织与行为学-索引]]
+3. 我的网课笔记，例如[[Notes for lesson/Mooc/组织行为学/组织与行为学-索引\|组织与行为学-索引]]
 4. 我的稍后读&笔记，例如[[SimpRead/Choosing-Your-Next-Book\|Choosing-Your-Next-Book]]
 5. 我的知识整理，例如[[Notes for reading/阅读时记笔记的简单指南\|阅读时记笔记的简单指南]]
 
