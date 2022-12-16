@@ -14,7 +14,7 @@ Welcome to my digital garden!
 3. 我的网课笔记，例如[[Notes for lesson/Mooc/组织行为学/组织与行为学-索引\|组织与行为学-索引]]
 4. 我的知识整理，例如[[Notes for reading/阅读时记笔记的简单指南\|阅读时记笔记的简单指南]]
 
-目前有个问题，关于中文文件夹及中文文件名的。再来测试一下，[[SimpRead/10-How to remember what you learn\|10-How to remember what you learn]]
+目前有个问题，关于中文文件夹及中文文件名的。再来测试一下，[[SimpRead/How to remember what you learn\|How to remember what you learn]]
 
 当然，我也会在这里分享一些我收藏的网站、开源程序等各种有意思的内容。目前还在建设中。
 
