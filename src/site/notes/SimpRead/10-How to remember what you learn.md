@@ -1,5 +1,5 @@
 ---
-{"url":"https://vasilishynkarenka.com/learning/","title":"How to remember what you learn","date":"2022-11-19 12:21:09","tag":null,"banner":"https://vasilishynkarenka.com/content/images/2020/09/IMG_1517.jpg","banner_icon":"🔖","dg-publish":true,"permalink":"/simp-read/10-how-to-remember-what-you-learn/","dgPassFrontmatter":true}
+{"url":"https://vasilishynkarenka.com/learning/","title":"How to remember what you learn","date":"2022-11-19 12:21:09","tag":null,"banner":"https://vasilishynkarenka.com/content/images/2020/09/IMG_1517.jpg","banner_icon":"🔖","dg-publish":true,"dg-permalink":"“10-How to remember what you learn”","permalink":"/“10-How to remember what you learn”/","dgPassFrontmatter":true}
 ---
 
 sr-annote { all: unset; }
